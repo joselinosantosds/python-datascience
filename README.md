@@ -6,4 +6,3 @@ Notebooks de treinamento em Python para Data Analysis
 4. Seaborn
 5. AED
 6. Limpeza e transformação de dados
-7. Consumo de API externa
